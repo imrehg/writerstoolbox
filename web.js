@@ -44,7 +44,15 @@ var firstsentences = new Array("Dad gave me a wink, like we were pals or somethi
 			       "My brother did this weird thing with turtles.",
 			       "Michael sat down in the middle of the road and began to cry.",
 			       "My grandfather lied to my grandmother. I guess it runs in the family.",
-			       "I had this system for getting exactly what I wanted out of people."
+			       "I had this system for getting exactly what I wanted out of people.",
+			       "Your mother lied to you. That's the truth.",
+			       "\"I like hats.\" That's wha Donald said the day before he killed Sally.",
+			       "After only two months, Helen decided to become an exotic dancer.",
+			       "My mother was doing that thing she did. That thing with the rag in the sink.",
+			       "My only defense ws to write down every word they said.",
+			       "There I was, just standing there, when what I wanted to do was forbidden.",
+			       "Charlotte ate green peppers all day long.",
+			       "There she was, Amy Gernstein, over by the pool, kissing my father."
 			      );
 
 var nonsequiturs = new Array("She was standing behind the counter, giving him this root beer-float kind of smile.",
@@ -59,7 +67,14 @@ var nonsequiturs = new Array("She was standing behind the counter, giving him th
 			     "She may be young, but she's not stupid.",
 			     "\"If you don't take chances,\" said the man in striped pijamas, \"you might as well not be alive.\"",
 			     "\"You could make a living doing that kind of thing.\" I suppose I could, but I had never thought about it, until then.",
-			     "She started taking up a lot of bad habits."
+			     "She started taking up a lot of bad habits.",
+			     "I cheated on my spouse. And it wasn't the first time.",
+			     "She found him in the Termnial Bar and Grill. He was sober, for a change.",
+			     "She found a diamond bracelet in the back of her car.",
+			     "On Tuesday, she asked me the most peculiar question.",
+			     "I decided, the only solution was to seduce him.",
+			     "He was skating on thin ice - that's all I can say.",
+			     "We were drinking champagne and losing our shirts."
 			    );
 
 var laststraws = new Array("the thing he does with the newspaper",
@@ -73,7 +88,15 @@ var laststraws = new Array("the thing he does with the newspaper",
 			   "the stain on the wall",
 			   "the day Sheila brought Hillary to my office",
 			   "the way she made tea",
-			   "the bill she forgot to pay"
+			   "the bill she forgot to pay",
+			   "the last time they saw a movie",
+			   "the time Leslie called me a leech",
+			   "the way he writes with both his left and right hands",
+			   "the thing she did to the breaks on the Honda",
+			   "the tear in her dress",
+			   "the day her moder slapped her face",
+			   "the time he caught a fly ball",
+			   "the time Fred went to the car wash and never came back"
 			  );
 
 
