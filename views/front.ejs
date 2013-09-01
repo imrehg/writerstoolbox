@@ -1,0 +1,46 @@
+<script src="/js/jquery.countdown.min.js"></script>
+<script src="/js/writing.js"></script>
+
+<!-- Begin page content -->
+<div class="container">
+  <div class="page-header">
+    <h1>First Sentence - Non Sequitur - The Last Straw</h1>
+    <p>
+      In this game, you get a <strong>First sentence</strong> to start a story with: copy that into into the writing
+      area, and write your story from there for 5 minutes.
+
+    <p>
+      After that, you'll get a new sentence, a <strong>Non Sequitur</strong> that will stir your story in an interesting
+      direction. Incorporate it, and continue writeing for another 5 minutes.
+      
+    <p>
+      Finally, you'll receive a <strong>Last Straw</strong>, an idea starter detail to
+      create a dynamic arc and finish your story.
+    </p>
+    <hr>
+    <div id="start"><button type="button" class="btn" id="startbtn">Ready to have fun?</button></div>
+    <div id="sentence-fs" class="sentences">
+      First sentence: <span class="sentencetext"><%= firstsentence %></span>
+      <span id="countdownfs"></span>
+    </div>
+    <div id="sentence-ns" class="sentences">
+      Non sequitur: <span class="sentencetext"><%= nonsequitur %></span>
+      <span id="countdownns"></span>
+    </div>
+    <div id="sentence-ls" class="sentences">
+      Last straw: <span class="sentencetext"><%= laststraw %></span>
+      <span id="countdownls"></span>
+    </div>
+    <div id="sentence-finish" class="sentences">
+      Congratulation, you are done! <span id="counts"></span> :)
+      <br>Now share your story with the world, or refresh this page to start again.
+    </div>
+  </div>
+
+  <div>
+    <textarea id="entryfield"></textarea>
+  </div>
+</div>
+
+
+
