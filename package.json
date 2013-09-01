@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "The Writer's Toolbox online version",
   "bugs": {
-    "url": "http://github.com/imrehg/writerstoolbox/issues"
+    "url": "https://github.com/imrehg/writerstoolbox/issues"
   },
   "author": {
     "name": "Gergely Imreh",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/writerstoolbox/friendcare.git"
+    "url": "https://github.com/imrehg/writerstoolbox.git"
   },
   "dependencies": {
     "ejs": "~0.8.4",
