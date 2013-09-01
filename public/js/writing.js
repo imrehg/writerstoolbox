@@ -1,7 +1,7 @@
 var cdcommon = {compact: true,
 		layout: "{mn}{sep}{snn} minutes left",
-		until: +5}
-var hltime = 1 * 1000;
+		until: +300}
+var hltime = 15 * 1000;
 
 $(document).ready(function() {
     var entryfield = $('#entryfield');
