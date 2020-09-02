@@ -49,7 +49,7 @@ var firstsentences = new Array("Dad gave me a wink, like we were pals or somethi
 			       "\"I like hats.\" That's wha Donald said the day before he killed Sally.",
 			       "After only two months, Helen decided to become an exotic dancer.",
 			       "My mother was doing that thing she did. That thing with the rag in the sink.",
-			       "My only defense ws to write down every word they said.",
+			       "My only defense was to write down every word they said.",
 			       "There I was, just standing there, when what I wanted to do was forbidden.",
 			       "Charlotte ate green peppers all day long.",
 			       "There she was, Amy Gernstein, over by the pool, kissing my father."
